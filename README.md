@@ -1,8 +1,26 @@
-# 👋 Hi, I'm Susano
+# 👋 Hello There, An Embedded Systems and IoT Expert Here
 
-### Software Engineer | Full-Stack Developer | Computer Vision Specialist
+## 🔧 My Hardware Setup
 
-I'm a versatile software engineer with expertise in embedded systems, computer vision, machine learning, and full-stack development. I build innovative solutions across multiple platforms and technologies.
+![My Embedded Setup](setup.jpg)
+
+### Top Rated Embedded Systems Engineer | IoT Apps & Robotics Developer 
+
+A versatile Embedded Systems & App development Expert with +3 years of Experience, I bring a unique blend of expertise in robotics, embedded systems, app development. and CAD design
+
+- Embedded Systems Expert (C/C++)
+- STM32, Arduino, ESP32 boards and Raspberry PIs
+- PCB Mixed Signal and High Speed Design EMI/SI
+- FPGAs, Verilog/VHDL
+- Assembly Language (x86, MIPS, Arm/Thumb)
+- ROS Robotics, Drones, IMUs applications
+- Native and Cross platform BLE/IoT Mobile App development
+
+With hands-on experience in creating advanced projects like drones, robotic arms, IMU gloves and developing path planning and navigation systems utilizing depth cameras for autonomous robots, I excel at integrating cutting-edge technology to solve complex problems.
+
+My skills extend to app development for Android, iOS, and web platforms, IoT apps and Sensor Integration ensuring comprehensive solutions for diverse needs.
+
+Let's collaborate to transform your ideas into a Reality!
 
 ---
 
@@ -28,13 +46,16 @@ I'm a versatile software engineer with expertise in embedded systems, computer v
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Technologies & Frameworks
+- **Embedded Systems:** ESP32, STM32 (Black Pill), Microcontroller Programming
+- **System Design:** Compiler Design, Operating Systems, Control Systems
+- **PCB Design:** High Speed, Multilayer PCB EMI/SI Proof Designs
 - **Mobile Development:** Android, Flutter
+- **Game Development:** Unity, Godot
 - **Computer Vision:** OpenCV, Stereo Vision, Depth Sensing
 - **Machine Learning:** Deep Learning, Object Detection, Image Processing
-- **Embedded Systems:** ESP32, STM32 (Black Pill), Microcontroller Programming
 - **Web Development:** Full-Stack JavaScript, HTML/CSS
 - **Data Compression:** Huffman Coding, Arithmetic Coding, Vector Quantization
-- **System Design:** Compiler Design, Operating Systems, Control Systems
+
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -93,12 +114,14 @@ Complete banking system implementation demonstrating object-oriented design prin
 
 I offer comprehensive software development services including:
 
-- ✅ **Full-Stack Web Development** - Building responsive and scalable web applications
+- ✅ **Embedded Systems** - Firmware development for microcontrollers and IoT devices
+- ✅ **System Architecture** - Designing robust and maintainable software systems
+- ✅ **Game Development** - Custom Hardware Controllers and Games fully developed in Unity
 - ✅ **Mobile App Development** - Native Android and cross-platform Flutter apps
 - ✅ **Computer Vision & ML** - Image processing, object detection, and AI solutions
-- ✅ **Embedded Systems** - Firmware development for microcontrollers and IoT devices
 - ✅ **Algorithm Design** - Data structures, optimization, and compression algorithms
-- ✅ **System Architecture** - Designing robust and maintainable software systems
+- ✅ **Full-Stack Web Development** - Building responsive and scalable web applications
+
 
 ---
 

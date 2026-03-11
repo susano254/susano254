@@ -2,7 +2,7 @@
 
 ## 🔧 My Hardware Setup
 
-![My Embedded Setup](setup_2.jpg)
+![My Embedded Setup](IMG20260225074703.jpg)
 
 ### Top Rated Embedded Systems Engineer | IoT Apps & Robotics Developer 
 

@@ -6,7 +6,7 @@
 
 ### Top Rated Embedded Systems Engineer | IoT Apps & Robotics Developer 
 
-A versatile Embedded Systems & App development Expert with +3 years of Experience, I bring a unique blend of expertise in robotics, embedded systems, app development. and CAD design
+A versatile Embedded Systems & App development Expert with +3 years of academic and freelance Experience, I bring a unique blend of expertise in robotics, embedded systems, app development. and CAD design
 
 - Embedded Systems Expert (C/C++)
 - STM32, Arduino, ESP32 boards and Raspberry PIs
